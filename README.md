@@ -10,9 +10,9 @@ Telugu + English · Responsive (mobile, tablet, desktop) · No back end.
 | Home | `index.html` |
 | About Temple | `about.html` |
 | Our Sevas | `sevas.html` |
-| Donations | `membership.html` |
 | Daily Schedule | `schedule.html` |
 | Utsavams | `utsavams.html` |
+| Donations | `membership.html` |
 | Contact | `contact.html` |
 | Committee | `committee.html` |
 

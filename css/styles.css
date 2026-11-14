@@ -578,3 +578,6 @@ a { color: var(--maroon); }
 .deity__cap { padding: 14px; }
 .deity__cap h3 { font-family: "Noto Sans Telugu", sans-serif; color: var(--maroon); font-size: 1.15rem; }
 .deity__cap p { font-family: "Marcellus", serif; color: var(--saffron); }
+
+/* ---------- Venkateswara photo logo ---------- */
+.brand__logo { border-radius: 50%; object-fit: cover; box-shadow: 0 3px 10px rgba(86, 18, 18, 0.25); }
