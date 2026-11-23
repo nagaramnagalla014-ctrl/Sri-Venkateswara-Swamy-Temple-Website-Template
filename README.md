@@ -23,6 +23,3 @@ Telugu + English · Responsive (mobile, tablet, desktop) · No back end.
 ## Updating content
 - Upcoming events and latest updates: `js/data.js`
 - Styles: `css/styles.css`
-
-## Image credits
-Deity images are from Wikimedia Commons under their free licences – see the credits on the About page.
